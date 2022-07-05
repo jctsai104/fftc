@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import 'normalize-css/normalize.css'
-import './tailwind/main.css'
+import 'tailwindcss/tailwind.css'
 import App from './App.vue'
 import VueRouter from 'vue-router'
 import router from './router'
